@@ -1,0 +1,336 @@
+/* responsive */
+
+@media only screen and (max-width: 7000px) {
+    .page-wrapper {
+        overflow: hidden;
+    }
+}
+
+@media only screen and (max-width: 1900px) {
+    .navtex_image {
+        right: 20px !important;
+        font-size: 80px !important;
+    }
+}
+
+@media only screen and (max-width: 1700px) {
+}
+
+@media only screen and (max-width: 1560px) {
+}
+
+@media only screen and (max-width: 1499px) {
+    .bkr003 .slider-01 .content .social-list ul {
+        display: none;
+    }
+
+    .bkr003 .aboutus-01 .big-title h1, .bkr003 .resume-01 .big-title h1, .bkr003 .slider-01 .content .bigtitle h1 {
+        font-size: 120px;
+    }
+
+    .bkr003 .featured-works-01 .featured-block.style-two .content-column .inner-column {
+        left: 0;
+    }
+}
+
+@media only screen and (max-width: 1299px) {
+}
+
+@media only screen and (max-width: 1279px) {
+}
+
+@media only screen and (max-width: 1300px) {
+}
+
+@media only screen and (max-width: 1199px) {
+    .bkr003 .design-01 .image-box img {
+        float: none;
+        width: 100%;
+    }
+
+    .bkr003 .qualification-01 .item {
+        margin-bottom: 30px;
+    }
+
+    .bkr003 .about-03 .image {
+        display: inline-block;
+        margin-bottom: 50px;
+    }
+
+        .bkr003 .about-03 .image:after {
+            left: 0;
+        }
+
+    .bkr003 .qualification-01 .tab-buttons li:before {
+        display: none;
+    }
+
+    .bkr003 .aboutus-01 .img-holder {
+        left: 0;
+    }
+
+    .bkr003 .aboutus-01 .big-title h1, .bkr003 .resume-01 .big-title h1, .bkr003 .slider-01 .content .bigtitle h1 {
+        font-size: 100px;
+    }
+
+    .bkr003 .resume-01 .img {
+        display: inline-block;
+        margin-bottom: 50px;
+    }
+
+    .bkr003 .resume-01 .inner {
+        padding-left: 0;
+    }
+
+    .bkr003 .resume-01 .row {
+        margin-top: 0;
+    }
+
+    .bkr003 .resume-01 .img:before {
+        opacity: 0;
+    }
+
+    .bkr003 .featured-works-01 .overlay-anim-box2 {
+        float: none;
+    }
+
+    .bkr003 .featured-works-01 .inner-column .image img {
+        float: none;
+        width: 100%;
+    }
+
+    .bkr003 .featured-works-01 .content-column .inner-column {
+        padding-top: 100px;
+        padding-bottom: 100px;
+        left: 0;
+    }
+
+    .bkr003 .featured-works-01 .featured-block.style-two .content-column .inner-column {
+        padding-top: 0;
+        padding-bottom: 100px;
+        padding-right: 0px;
+        left: 0;
+    }
+
+    .bkr003 .featured-works-01 .image-column {
+        margin-bottom: 30px;
+    }
+
+    .bkr003 .featured-works-01 .featured-block.style-three .content-column .inner-column {
+        padding-bottom: 100px;
+    }
+
+    .bkr003 .featured-works-01 .featured-block {
+        margin: 0px 15px;
+    }
+
+    .bkr003 .portfolio-02 .filters .filter-btns {
+        margin: 0;
+    }
+
+    .portfolio-02 .project-block .image-box img {
+        max-width: unset;
+        width: 100%;
+    }
+
+    .bkr003 .portfolio-02 .overlay-anim-box2 {
+        display: block;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+}
+
+@media only screen and (max-width: 1023px) {
+}
+
+@media only screen and (max-width: 991px) {
+    .nav-menu .square_box.box_three {
+        opacity: 0 !important;
+    }
+
+    .bkr003 .footer-bottom-area-03 .copyright-text {
+        text-align: center;
+        margin-bottom: 100px;
+    }
+
+    .bkr003 .footer-bottom-area-03 .social-list ul {
+        text-align: center;
+    }
+
+    .bkr003 .footer-bottom-area-03 .scroll-to-top {
+        top: -15px;
+    }
+
+    .bkr003 .aboutus-01 .img-holder {
+        margin-top: 50px;
+    }
+
+        .bkr003 .aboutus-01 .img-holder:before {
+            left: 0;
+        }
+
+        .bkr003 .aboutus-01 .img-holder .title {
+            left: 0;
+        }
+
+    .bkr003 .aboutus-01 .big-title h1, .bkr003 .resume-01 .big-title h1, .bkr003 .slider-01 .content .bigtitle h1 {
+        font-size: 80px;
+    }
+
+    .bkr003 .aboutus-01 .text p {
+        padding-right: 0;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .nav-container .social-list {
+        display: none;
+    }
+
+    .navtex_image {
+        right: 0px !important;
+        transform: rotate(0deg) translateX(0%) !important;
+        position: relative !important;
+        text-align: center;
+    }
+
+    .bkr003 .slider-01 .content .title h2 {
+        font-size: 50px;
+        line-height: 80px;
+    }
+
+    .bkr003 .slider-01 {
+        padding: 60px 0px 60px 0px;
+    }
+
+        .bkr003 .slider-01 .content .image img {
+            display: none;
+        }
+
+    .bkr003 .skills-03 .left:before {
+        left: 0;
+    }
+
+    .bkr003 .skills-03 .left:before {
+        left: -200px;
+    }
+
+    .bkr003 .slider-01 .content {
+        margin-bottom: 60px;
+    }
+
+    .bkr003 .skills-03 .image img {
+        opacity: 0;
+    }
+
+    .bkr003 .skills-03 .skill-block {
+        padding: 100px 0px 45px 0px;
+    }
+
+    .bkr003 .aboutus-01 .big-title h1, .bkr003 .resume-01 .big-title h1, .bkr003 .slider-01 .content .bigtitle h1 {
+        font-size: 60px;
+    }
+
+    .bkr003 .aboutus-01 .img-holder:after {
+        opacity: 0;
+    }
+
+    .portfolio-02 .project-block {
+        margin-left: 0;
+        width: 100%;
+    }
+
+    .bkr003 .portfolio-02 .filters .filter-btns {
+        border-bottom: none;
+    }
+
+    .bkr003 .portfolio-02 .filters li {
+        display: block;
+        padding-bottom: 0 !important;
+        margin: 0;
+    }
+
+        .bkr003 .portfolio-02 .filters li.active:before {
+            display: none;
+        }
+}
+
+@media only screen and (max-width: 640px) {
+}
+
+@media only screen and (max-width: 599px) {
+    .bkr003 .about-03 .content .title h2 {
+        font-size: 50px;
+        line-height: 60px;
+    }
+
+    .bkr003 .about-03 .content .item .icon {
+        position: relative;
+        left: 0;
+    }
+
+    .bkr003 .about-03 .content .item {
+        padding: 0px 0px 0px 0px;
+    }
+
+    .bkr003 .aboutus-01 .big-title h1, .bkr003 .resume-01 .big-title h1 {
+        font-size: 40px;
+    }
+
+    .bkr003 .contact-02 .sec-title .title h2 {
+        font-size: 35px;
+        line-height: 60px;
+    }
+
+    .bkr003 .featured-works-01 .sec-title .title h2 {
+        font-size: 30px;
+        line-height: 50px;
+    }
+}
+
+@media only screen and (max-width: 479px) {
+    .bkr003 .slider-01 .content .title h2 {
+        font-size: 35px;
+        line-height: 60px;
+    }
+
+    .bkr003 .qualification-01 .tab-buttons li {
+        font-size: 45px;
+        line-height: 90px;
+        margin: 0;
+    }
+
+    .bkr003 .skills-03 .content .title h2 {
+        font-size: 30px;
+        line-height: 50px;
+    }
+
+    .bkr003 .skills-03 .skill-block .title h2 {
+        font-size: 30px;
+        line-height: 50px;
+    }
+
+    .bkr003 .footer-bottom-area-03 .social-list ul li {
+        margin: 0px 0px;
+    }
+
+    .bkr003 .aboutus-01 .link-btn .btn-style-one {
+        display: inline-block;
+    }
+
+    .bkr003 .aboutus-01 .link-btn .btn-style-two {
+        display: inline-block;
+        padding: 10px 30px 9px 80px;
+    }
+
+    .bkr003 .aboutus-01 .link-btn {
+        margin-bottom: 30px;
+    }
+
+    .bkr003 .resume-01 .date {
+        float: none;
+        top: 0;
+        left: 0;
+    }
+}
